@@ -1,1 +1,1 @@
-# SI-Lab02
+Laboratório 02 - SI
